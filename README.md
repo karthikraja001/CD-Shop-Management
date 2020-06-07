@@ -1,8 +1,9 @@
 # CD-Shop-Management
-CD Shop management Using Data Structures Concepts (Arrays, Queues, Linked List, Searching and Sorting) Using C Programming Language
+CD Shop management Using Data Structures Concepts (Arrays, Queues, Linked List, Searching and Sorting) Using C Programming Language<br/>
+(Works on both C and C++)
 
 # VERSION 1.0
-CD shop management using data structures concept (queue, linked list) in c language
+CD shop management using data structures concept (queue, linked list) in c language (Works on both C and C++)
 
 **ABSTRACT:**<br/>
 *	To create a movie(cd) shop management using queues and linked list.<br/>
