@@ -1,3 +1,8 @@
+[![GitHub license](https://img.shields.io/github/license/mr-anonymous-official/CD-Shop-Management?style=plastic)](https://github.com/mr-anonymous-official/CD-Shop-Management/blob/master/LICENSE)
+
+<br/>
+
+
 # CD-Shop-Management
 CD Shop management Using Data Structures Concepts (Arrays, Queues, Linked List, Searching and Sorting) Using C Programming Language<br/>
 (Works on both C and C++)
