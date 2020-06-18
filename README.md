@@ -4,7 +4,9 @@
 <br/>
 
 [1.1]: https://img.icons8.com/ios-filled/25/000000/instagram-new.png
+[1.2]: https://img.icons8.com/metro/26/000000/twitter.png
 [1]: https://www.instagram.com/mr.anonymous_official
+[11]: https://twitter.com/MrAnonymousofcl
 [2]: https://www.instagram.com/vignesh_r_
 # CD-Shop-Management
 CD Shop management Using Data Structures Concepts (Arrays, Queues, Linked List, Searching and Sorting) Using C Programming Language<br/>
@@ -32,7 +34,7 @@ CD shop management using data structures concept (arrays, linked list, searching
 
 # CREDITS  
 **Karthik Raja**<br/>
-[![alt text][1.1]][1] <br/>
+[![alt text][1.1]][1][![alt text][1.1]][11] <br/>
 ![GitHub followers](https://img.shields.io/github/followers/mr-anonymous-official?label=mr-anonymous-official&style=social) <br/>
 
 **Vignesh.R** <br/>
