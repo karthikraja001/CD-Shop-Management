@@ -35,12 +35,12 @@ CD shop management using data structures concept (arrays, linked list, searching
 # CREDITS  
 :white_check_mark:**Karthik Raja**<br/>
 <br/>
-**Social**<br/>
+**Social**
 ![GitHub followers](https://img.shields.io/github/followers/mr-anonymous-official?label=mr-anonymous-official&style=social) <br/>
 [![alt text][1.1]][1][![alt text][1.2]][11] <br/>
 
 :white_check_mark:**Vignesh.R**<br/>
 <br/>
-**Social**<br/>
+**Social**
 ![GitHub followers](https://img.shields.io/github/followers/codervignesh?label=codervignesh&style=social)  <br/>
 [![alt text][1.1]][2]<br/>
