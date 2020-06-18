@@ -30,8 +30,9 @@ CD shop management using data structures concept (arrays, linked list, searching
 
 # CREDITS  
 Karthik Raja <br/>
-**Instagram**  https://instagram.com/mr.anonymous_official  <br/>
-**Github**      ![GitHub followers](https://img.shields.io/github/followers/mr-anonymous-official?label=mr-anonymous-official&style=social) <br/>
+**Instagram**  ![Twitter URL](https://img.shields.io/twitter/url?color=orange&label=Instagram&logoColor=Orange&style=for-the-badge&url=https%3A%2F%2Finstagram.com%2Fmr.anonymous_official)  <br/>
+<br/>
+**Github**:-          ![GitHub followers](https://img.shields.io/github/followers/mr-anonymous-official?label=mr-anonymous-official&style=social) <br/>
 
 Vignesh.R <br/>
 **Instagram**  https://instagram.com/vignesh_r_?igshid=w0k23i459w8s <br/>
