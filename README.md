@@ -3,7 +3,7 @@
 
 <br/>
 
-[1.1]: https://img.icons8.com/cotton/25/000000/instagram-new.png
+[1.1]: https://img.icons8.com/ios-filled/25/000000/instagram-new.png
 [1]: https://www.instagram.com/mr.anonymous_official
 [2]: https://www.instagram.com/vignesh_r_
 # CD-Shop-Management
@@ -31,11 +31,9 @@ CD shop management using data structures concept (arrays, linked list, searching
 
 
 # CREDITS  
-Karthik Raja 
-<br/>
-  **Instagram**   :- [![alt text][1.1]][1] <br/>
-<br/>
-**Github**:-          ![GitHub followers](https://img.shields.io/github/followers/mr-anonymous-official?label=mr-anonymous-official&style=social) <br/>
+Karthik Raja<br/>
+[![alt text][1.1]][1] <br/>
+![GitHub followers](https://img.shields.io/github/followers/mr-anonymous-official?label=mr-anonymous-official&style=social) <br/>
 
 Vignesh.R <br/>
 **Instagram**:-   [![alt text][1.1]][2]<br/>
