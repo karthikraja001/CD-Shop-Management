@@ -1,4 +1,5 @@
 [![GitHub license](https://img.shields.io/github/license/mr-anonymous-official/CD-Shop-Management?style=plastic)](https://github.com/mr-anonymous-official/CD-Shop-Management/blob/master/LICENSE)
+![GitHub language count](https://img.shields.io/github/languages/count/mr-anonymous-official/CD-Shop-Management?style=plastic)
 
 <br/>
 
