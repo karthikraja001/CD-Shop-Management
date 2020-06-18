@@ -3,7 +3,9 @@
 
 <br/>
 
-
+[1.1]: https://img.icons8.com/cotton/25/000000/instagram-new.png
+[1]: https://www.instagram.com/mr.anonymous_official
+[2]: https://www.instagram.com/vignesh_r_
 # CD-Shop-Management
 CD Shop management Using Data Structures Concepts (Arrays, Queues, Linked List, Searching and Sorting) Using C Programming Language<br/>
 (Works on both C and C++)
@@ -29,11 +31,12 @@ CD shop management using data structures concept (arrays, linked list, searching
 
 
 # CREDITS  
-Karthik Raja <br/>
-**Instagram**   <br/>
+Karthik Raja 
+<br/>
+  **Instagram**   :- [![alt text][1.1]][1] <br/>
 <br/>
 **Github**:-          ![GitHub followers](https://img.shields.io/github/followers/mr-anonymous-official?label=mr-anonymous-official&style=social) <br/>
 
 Vignesh.R <br/>
-**Instagram**  https://instagram.com/vignesh_r_?igshid=w0k23i459w8s <br/>
-**Github**      https://github.com/codervignesh <br/>
+**Instagram**:-   [![alt text][1.1]][2]<br/>
+**Github**     ![GitHub followers](https://img.shields.io/github/followers/codervignesh?label=codervignesh&style=social)  <br/>
